@@ -19,4 +19,4 @@ public class Condition {
 			System.out.println("통행료 : "+(600+200*money)+"원");
 			}
 		}
-	}
+	} 
