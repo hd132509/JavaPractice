@@ -43,6 +43,7 @@ public int maxSpeed(){
 public int price(){
 	return price;
 }
+
 /*
 public void setcompany(String newcompany){
 	company=newcompany;

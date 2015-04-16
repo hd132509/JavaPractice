@@ -19,9 +19,9 @@ import org.dimigo.basic.Car2;
  */
 public class Cartest {
 	public static void main(String[] args){
-		Car3 Car= new Car3("현대자동차","제네시스","검정",225,50000000);
-		Car3 Car2=new Car3("기아자동차","K7","흰색",246);
-		Car3 Car3=new Car3("삼성자동차","SN7","회색");
+		Car2 Car= new Car2("현대자동차","제네시스","검정",225,50000000);
+		Car2 Car2=new Car2("기아자동차","K7","흰색",246,40000000);
+		Car2 Car3=new Car2("삼성자동차","SN7","회색",200,38000000);
 		System.out.println("<<자동차 목록>>");
 		System.out.println("제조사명 : "+Car.company());
 		System.out.println("모델명 : "+Car.model());
