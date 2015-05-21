@@ -78,7 +78,7 @@ public class Snack {
 	public void printSnack(){
 		System.out.println("이름 : "+name);
 		System.out.println("제조사 : "+company);
-		System.out.println("가격 : " +price);
+		System.out.println("가격 : " +String.format("%,d", price));
 		System.out.println("개수 : "+number);
 	}
 	int calcPrice(){

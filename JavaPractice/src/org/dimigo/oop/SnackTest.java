@@ -31,7 +31,7 @@ public class SnackTest {
 			snack[i].printSnack();
 			sum=snack[i].calcPrice();
 		}
-		System.out.println("총 금액:"+sum);
+		System.out.println("총 금액:"+String.format("%,d", sum));
 	}
 
 }
