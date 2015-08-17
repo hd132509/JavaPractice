@@ -26,7 +26,7 @@ public class Figure {
 	protected double calcArea(){
 		return 0.0;
 	}
-	protected void printCenter(){
+	public void printCenter(){
 		System.out.println("중심좌표 : "+centerX+"."+centerY);
 	}
 	public void moveFigure(int x,int y){
