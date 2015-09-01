@@ -16,7 +16,7 @@ package org.dimigo.abstractclass;
  */
 public class SmartPhoneTest {
 
-	/**
+	/** 
 	 * @param args
 	 */
   public static void main(String[] args) {

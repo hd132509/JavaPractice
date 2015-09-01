@@ -9,7 +9,7 @@ package org.dimigo.abstractclass;
  *    |_Galaxy
  *
  *1. 개요 : 
- *2. 작성일 : 2015. 8. 25.
+ *2. 작성일 : 2015. 8. 25.  
  *</pre>
  * @author   : 김정수
  * @version  : 1.0
